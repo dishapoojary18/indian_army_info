@@ -72,5 +72,4 @@ An authentic, fully responsive, ten-page static educational website detailing th
 
 This website is completely static and can be deployed directly to:
 * **GitHub Pages:** Push the repository and enable Pages from the main branch.
-* **Vercel / Netlify:** Connect the repository; no build command required (or `npm run build` with Vite).
 * **Local Browser:** Double-click `index.html` to open directly in any modern browser.
